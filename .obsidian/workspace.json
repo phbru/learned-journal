@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "79f69dda53e1d585",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef3658a09050cb77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c3d4e0473df287f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0932dd0a29c01b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2abbfe110b3205af",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7b0e2c301b68109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adb7e11bf2fafd89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f5d7fd7afe86c9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f73f7df1dcaca5ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbbddf5ec4a65f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "18a7717eaa00386d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51a6a2014866d726",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6107d7cc276de18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1925cba01b2aa2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f1020932f0dfa89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7c3d4e0473df287f",
+  "lastOpenFiles": [
+    "javascript.md",
+    "Frontend/Javascript/javascript.md",
+    "General/time.md",
+    "Frontend/Javascript",
+    "Backend/C# techs/EntityFramework/DbContext/using db context.md",
+    "2024-02-21.md",
+    "Backend/C.md",
+    "Frontend/Http Requests/post requests.md",
+    "Backend/C# techs/EntityFramework/DbContext/test note.md",
+    "Backend/C# techs/C#/type DateTimeOffset.md"
+  ]
+}
