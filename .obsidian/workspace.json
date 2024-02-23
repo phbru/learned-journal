@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f5d7fd7afe86c9d",
+  "active": "7c3d4e0473df287f",
   "lastOpenFiles": [
-    "2024-02-21.md",
+    "2024-02-23.md",
     "2024-02-22.md",
+    "2024-02-21.md",
     "javascript.md",
     "Logs",
     "Frontend/Javascript/javascript.md",
