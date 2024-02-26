@@ -1,0 +1,5 @@
+- How types ?
+	- Static vs dynamic -> typing at compile or runtime
+	- Strong vs weak -> are conversions implicit or explicit
+- What is the "null object". What are it's mechanisms and specificity
+- 
