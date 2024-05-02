@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-18.md",
+                "file": "Frontend/Vue/Setups/Vitest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-18.md",
+                "file": "Frontend/Vue/Setups/Vitest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-18.md",
+                "file": "Frontend/Vue/Setups/Vitest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-18.md"
+                "file": "Frontend/Vue/Setups/Vitest.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "70b77a6d8389ed0b",
   "lastOpenFiles": [
+    "2024-03-18.md",
     "Frontend/Vue/Setups/Vitest.md",
     "Frontend/Vue/Setups/EsLint-Prettier-AutoSave.md",
     "Frontend/Vue/Setups",
     "Frontend/Vue",
     "2024-04-17.md",
     "2024-04-12.md",
-    "2024-03-18.md",
     "2024-03-06.md",
     "Untitled 1.md",
     "Untitled.md",
