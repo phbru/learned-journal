@@ -148,6 +148,10 @@
   },
   "active": "70b77a6d8389ed0b",
   "lastOpenFiles": [
+    "Frontend/Vue/Setups/Vitest.md",
+    "Frontend/Vue/Setups/EsLint-Prettier-AutoSave.md",
+    "Frontend/Vue/Setups",
+    "Frontend/Vue",
     "2024-04-17.md",
     "2024-04-12.md",
     "2024-03-18.md",
@@ -174,8 +178,6 @@
     "Frontend/Javascript",
     "Backend/C# techs/EntityFramework/DbContext/using db context.md",
     "Backend/C.md",
-    "Frontend/Http Requests/post requests.md",
-    "Backend/C# techs/EntityFramework/DbContext/test note.md",
-    "Backend/C# techs/C#/type DateTimeOffset.md"
+    "Frontend/Http Requests/post requests.md"
   ]
 }
