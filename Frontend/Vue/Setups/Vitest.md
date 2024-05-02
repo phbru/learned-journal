@@ -1,1 +1,3 @@
-test
+... plein d'affaire...
+
+npm i -D @pinia/testing
