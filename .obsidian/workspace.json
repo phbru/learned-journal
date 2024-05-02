@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8ee413e1bc92bdf",
+        "id": "485f31616a1ce25f",
         "type": "tabs",
         "children": [
           {
-            "id": "70b77a6d8389ed0b",
+            "id": "6a499c1ab8793e0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-17.md",
+                "file": "Frontend/Vue/Setups/Vitest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-17.md",
+                "file": "Frontend/Vue/Setups/Vitest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-17.md",
+                "file": "Frontend/Vue/Setups/Vitest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-17.md"
+                "file": "Frontend/Vue/Setups/Vitest.md"
               }
             }
           }
@@ -146,12 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70b77a6d8389ed0b",
+  "active": "6a499c1ab8793e0e",
   "lastOpenFiles": [
-    "2024-04-12.md",
-    "2024-04-17.md",
-    "2024-03-18.md",
+    "Frontend/Vue/Setups/EsLint-Prettier-AutoSave.md",
+    "Frontend/Vue/Setups/Vitest.md",
     "2024-03-06.md",
+    "Frontend/Vue/Setups",
+    "Frontend/Vue",
+    "2024-03-05.md",
+    "2024-02-29.md",
+    "2024-02-28.md",
+    "2024-04-17.md",
+    "2024-04-12.md",
+    "2024-03-18.md",
     "Untitled 1.md",
     "Untitled.md",
     "2024-02-25.md",
@@ -160,9 +167,6 @@
     "Patterns/PATTERNS.md",
     "Patterns/New Language Questions.md",
     "2024-02-26.md",
-    "2024-02-28.md",
-    "2024-02-29.md",
-    "2024-03-05.md",
     "2024-02-21.md",
     "To learn/2024-02-25 - 2024-03-04.md",
     "2024-02-24.md",
@@ -174,8 +178,6 @@
     "Frontend/Javascript",
     "Backend/C# techs/EntityFramework/DbContext/using db context.md",
     "Backend/C.md",
-    "Frontend/Http Requests/post requests.md",
-    "Backend/C# techs/EntityFramework/DbContext/test note.md",
-    "Backend/C# techs/C#/type DateTimeOffset.md"
+    "Frontend/Http Requests/post requests.md"
   ]
 }
