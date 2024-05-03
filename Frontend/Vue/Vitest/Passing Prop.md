@@ -1,6 +1,7 @@
 
 ```ts
-const todoItem: TodoItem = { itemName: "the first and only todo", id: 4 };
+describe("TodoItemBlock.vue", () => {
+    const todoItem: TodoItem = { itemName: "the first and only todo", id: 4 };
 
     test("Should display passed prop", () => {
         const todoItemBlockWrapper = shallowMount(TodoItemBlock, {
@@ -8,4 +9,5 @@ const todoItem: TodoItem = { itemName: "the first and only todo", id: 4 };
         });
         expect(todoItemBlockWrapper.text()).toContain("the first and only todo");
     });
+});
 ```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Vue/Vitest/Passing Prop.md",
+                "file": "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Vue/Vitest/Passing Prop.md",
+                "file": "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Vue/Vitest/Passing Prop.md",
+                "file": "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Vue/Vitest/Passing Prop.md"
+                "file": "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "70b77a6d8389ed0b",
   "lastOpenFiles": [
-    "Frontend/Vue/Vitest/Stub component.md",
+    "Frontend/Vue/Vitest/wrapper.find.md",
+    "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
+    "Untitled.md",
     "Frontend/Vue/Vitest/Passing Prop.md",
+    "Frontend/Vue/Vitest/Stub component.md",
     "Frontend/Vue/Vitest/Component that uses Pinia.md",
     "Frontend/Vue/Vitest/Setup.md",
     "Frontend/Vue/Untitled.md",
@@ -162,7 +165,6 @@
     "2024-04-12.md",
     "2024-03-06.md",
     "Untitled 1.md",
-    "Untitled.md",
     "2024-02-25.md",
     "2024-02-22.md",
     "General/time.md",
@@ -175,9 +177,7 @@
     "2024-02-21.md",
     "To learn/2024-02-25 - 2024-03-04.md",
     "2024-02-24.md",
-    "2024-02-23.md",
     "Patterns",
-    "javascript.md",
     "To learn",
     "Frontend/Javascript"
   ]
