@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Vue/Setups/Vitest.md",
+                "file": "Frontend/Vue/Vitest/Test a component that uses Pinia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Vue/Setups/Vitest.md",
+                "file": "Frontend/Vue/Vitest/Test a component that uses Pinia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Vue/Setups/Vitest.md",
+                "file": "Frontend/Vue/Vitest/Test a component that uses Pinia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Vue/Setups/Vitest.md"
+                "file": "Frontend/Vue/Vitest/Test a component that uses Pinia.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "70b77a6d8389ed0b",
   "lastOpenFiles": [
+    "Frontend/Vue/Vitest/Setup.md",
+    "Frontend/Vue/Vitest/Test a component that uses Pinia.md",
+    "Frontend/Vue/Untitled.md",
+    "Frontend/Vue/Vitest",
     "2024-03-18.md",
-    "Frontend/Vue/Setups/Vitest.md",
     "Frontend/Vue/Setups/EsLint-Prettier-AutoSave.md",
     "Frontend/Vue/Setups",
     "Frontend/Vue",
@@ -176,8 +179,6 @@
     "To learn",
     "Frontend/Javascript/javascript.md",
     "Frontend/Javascript",
-    "Backend/C# techs/EntityFramework/DbContext/using db context.md",
-    "Backend/C.md",
-    "Frontend/Http Requests/post requests.md"
+    "Backend/C# techs/EntityFramework/DbContext/using db context.md"
   ]
 }
