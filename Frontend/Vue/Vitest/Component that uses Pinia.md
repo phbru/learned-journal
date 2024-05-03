@@ -1,6 +1,4 @@
-With the proper setup
-
-
+With the proper setup :
 ```ts
 import { createTestingPinia } from "@pinia/testing";
 import { useTodoListStore } from "@/stores/todoListStore";
