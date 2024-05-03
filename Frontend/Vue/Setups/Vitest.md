@@ -32,6 +32,10 @@ export default mergeConfig(
 
 
 
+test("renders 3 todos", () => {
+
+        console.log("AJHHLLo");
+
         const store = useTodoListStore(); // uses the testing pinia!
 
   
@@ -57,3 +61,21 @@ export default mergeConfig(
             },
 
         });
+
+  
+
+        // store.addTodoItemAtIndex("nourrir les chats", 3);
+
+  
+
+        const items = wrapper.findAllComponents(TodoItem);
+
+        console.log("items", items);
+
+        console.log(store.todoItems);
+
+        expect(store.todoItems).toHaveLength(3);
+
+        // expect(items).toHaveLength(3);
+
+    });
