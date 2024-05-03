@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md",
+                "file": "Frontend/Vue/Vitest/Passing Prop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md",
+                "file": "Frontend/Vue/Vitest/Passing Prop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md",
+                "file": "Frontend/Vue/Vitest/Passing Prop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md"
+                "file": "Frontend/Vue/Vitest/Passing Prop.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adb7e11bf2fafd89",
+  "active": "70b77a6d8389ed0b",
   "lastOpenFiles": [
-    "Frontend/Vue/Vitest/Setup.md",
+    "Frontend/Vue/Vitest/Stub component.md",
+    "Frontend/Vue/Vitest/Passing Prop.md",
     "Frontend/Vue/Vitest/Component that uses Pinia.md",
+    "Frontend/Vue/Vitest/Setup.md",
     "Frontend/Vue/Untitled.md",
     "Frontend/Vue/Vitest",
     "2024-03-18.md",
@@ -177,8 +179,6 @@
     "Patterns",
     "javascript.md",
     "To learn",
-    "Frontend/Javascript/javascript.md",
-    "Frontend/Javascript",
-    "Backend/C# techs/EntityFramework/DbContext/using db context.md"
+    "Frontend/Javascript"
   ]
 }
