@@ -31,7 +31,9 @@ export default mergeConfig(
 
 
 
+With vitest, I'm testing a vue component that refers to a list inside a pinia store to renders a list of child components. 
 
+Here is my test so far : 
 test("renders 3 todos", () => {
 
         console.log("AJHHLLo");
@@ -79,5 +81,5 @@ test("renders 3 todos", () => {
         // expect(items).toHaveLength(3);
 
     });
-With vitest, I'm testing a vue component that refers to a list inside a pinia store to renders a list of child components. 
-I'm trying to test if the child component is rendered 3 times
+
+For some reason, items is empty
