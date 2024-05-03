@@ -30,3 +30,30 @@ export default mergeConfig(
 ```
 
 
+
+
+        const store = useTodoListStore(); // uses the testing pinia!
+
+  
+
+        // state can be directly manipulated
+
+        store.todoItems = [
+
+            { itemName: "manger", id: 0 },
+
+            { itemName: "aller dormir", id: 1 },
+
+            { itemName: "chanter des belles chansons", id: 2 },
+
+        ];
+
+        const wrapper = mount(TodoList, {
+
+            global: {
+
+                plugins: [createTestingPinia()],
+
+            },
+
+        });
