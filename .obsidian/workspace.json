@@ -11,8 +11,12 @@
             "id": "ec213b82aaf0974c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-05-09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-05-09.md"
+              }
             }
           }
         ]
@@ -141,10 +148,12 @@
   },
   "active": "ec213b82aaf0974c",
   "lastOpenFiles": [
+    "2024-04-12.md",
+    "2024-05-09.md",
+    "Untitled.canvas",
     "2024-02-25.md",
     "2024-02-24.md",
     "2024-02-21.md",
-    "2024-04-12.md",
     "2024-04-17.md",
     "Frontend/Vue/Setups/EsLint-Prettier-AutoSave.md",
     "Frontend/Vue/Setups/Vitest.md",
@@ -168,8 +177,6 @@
     "Patterns/New Language Questions.md",
     "2024-02-26.md",
     "2024-02-28.md",
-    "2024-02-29.md",
-    "2024-03-05.md",
     "Patterns",
     "To learn",
     "Frontend/Javascript"
