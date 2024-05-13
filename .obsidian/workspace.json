@@ -148,6 +148,8 @@
   },
   "active": "ec213b82aaf0974c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Frontend/Vue/Vitest/Setup.md",
     "Frontend/Vue/Vitest/Stub component.md",
     "2024-05-13.md",
     "2024-05-10.md",
@@ -163,7 +165,6 @@
     "Frontend/Vue/Vitest/wrapper.find.md",
     "Frontend/Vue/Vitest/Passing Prop.md",
     "Frontend/Vue/Vitest/Testing Pinia Store.md",
-    "Frontend/Vue/Vitest/Setup.md",
     "Frontend/Vue/Vitest/Component that uses Pinia.md",
     "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
     "Frontend/Vue/Vitest",
@@ -177,7 +178,6 @@
     "General/time.md",
     "Patterns/PATTERNS.md",
     "Patterns/New Language Questions.md",
-    "2024-02-26.md",
     "Patterns",
     "To learn",
     "Frontend/Javascript"
