@@ -45,9 +45,11 @@ export default mergeConfig(
 
 ... plein d'affaire...
 
+
+
+
+## Pinia 
 npm i -D @pinia/testing
-
-
 
 Permet de ne pas avoir à importer les mots clés de vite (et aussi de faire le trick de pinia...)
 ts.config : 

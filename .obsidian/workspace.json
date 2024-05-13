@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Vue/Vitest/Setup.md",
+                "file": "Frontend/Vue/Vitest/Testing Pinia Store.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Vue/Vitest/Setup.md",
+                "file": "Frontend/Vue/Vitest/Testing Pinia Store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Vue/Vitest/Setup.md",
+                "file": "Frontend/Vue/Vitest/Testing Pinia Store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Vue/Vitest/Setup.md"
+                "file": "Frontend/Vue/Vitest/Testing Pinia Store.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "ec213b82aaf0974c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Frontend/Vue/Vitest/Setup.md",
+    "conflict-files-obsidian-git.md",
     "Frontend/Vue/Vitest/Stub component.md",
     "2024-05-13.md",
     "2024-05-10.md",
