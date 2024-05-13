@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Vue/Vitest/Testing Pinia Store.md",
+                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Vue/Vitest/Testing Pinia Store.md",
+                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Vue/Vitest/Testing Pinia Store.md",
+                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Vue/Vitest/Testing Pinia Store.md"
+                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ec213b82aaf0974c",
   "lastOpenFiles": [
+    "Frontend/Vue/Vitest/Testing Pinia Store.md",
     "Frontend/Vue/Vitest/Setup.md",
     "conflict-files-obsidian-git.md",
     "Frontend/Vue/Vitest/Stub component.md",
@@ -164,7 +165,6 @@
     "Frontend/Vue/Setups/Vitest.md",
     "Frontend/Vue/Vitest/wrapper.find.md",
     "Frontend/Vue/Vitest/Passing Prop.md",
-    "Frontend/Vue/Vitest/Testing Pinia Store.md",
     "Frontend/Vue/Vitest/Component that uses Pinia.md",
     "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
     "Frontend/Vue/Vitest",
