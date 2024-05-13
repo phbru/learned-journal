@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-13.md",
+                "file": "Frontend/Vue/Vitest/Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-13.md",
+                "file": "Frontend/Vue/Vitest/Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-13.md",
+                "file": "Frontend/Vue/Vitest/Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-13.md"
+                "file": "Frontend/Vue/Vitest/Setup.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "ec213b82aaf0974c",
   "lastOpenFiles": [
-    "2024-05-10.md",
+    "Frontend/Vue/Vitest/Stub component.md",
     "2024-05-13.md",
+    "2024-05-10.md",
     "2024-05-09.md",
     "2024-04-12.md",
     "Untitled.canvas",
@@ -161,7 +162,6 @@
     "Frontend/Vue/Setups/Vitest.md",
     "Frontend/Vue/Vitest/wrapper.find.md",
     "Frontend/Vue/Vitest/Passing Prop.md",
-    "Frontend/Vue/Vitest/Stub component.md",
     "Frontend/Vue/Vitest/Testing Pinia Store.md",
     "Frontend/Vue/Vitest/Setup.md",
     "Frontend/Vue/Vitest/Component that uses Pinia.md",
