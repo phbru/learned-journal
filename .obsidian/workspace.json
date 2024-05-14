@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Vue/Vitest/Stub component.md",
+                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Vue/Vitest/Stub component.md",
+                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Vue/Vitest/Stub component.md",
+                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Vue/Vitest/Stub component.md"
+                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md"
               }
             }
           }
@@ -148,19 +148,19 @@
   },
   "active": "2cf02f7065d4e81b",
   "lastOpenFiles": [
-    "Frontend/Vue/Vitest/Component that uses Pinia.md",
+    "Frontend/Vue/Vitest/wrapper.find.md",
+    "Frontend/Vue/Vitest/Stub component.md",
     "Frontend/Vue/Vitest/Testing Pinia Store.md",
+    "Frontend/Vue/Vitest/Component that uses Pinia.md",
     "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
     "conflict-files-obsidian-git.md",
     "Frontend/Vue/Vitest/Setup.md",
     "2024-05-13.md",
-    "Frontend/Vue/Vitest/Stub component.md",
     "2024-05-10.md",
     "2024-05-09.md",
     "2024-04-12.md",
     "2024-03-18.md",
     "Untitled.canvas",
-    "Frontend/Vue/Vitest/wrapper.find.md",
     "Untitled.md",
     "Frontend/Vue/Vitest/Passing Prop.md",
     "Frontend/Vue/Untitled.md",
