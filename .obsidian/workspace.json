@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-12.md",
+                "file": "2024-03-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-12.md",
+                "file": "2024-03-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-12.md",
+                "file": "2024-03-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-12.md"
+                "file": "2024-03-18.md"
               }
             }
           }
@@ -149,6 +148,12 @@
   },
   "active": "2cf02f7065d4e81b",
   "lastOpenFiles": [
+    "2024-04-12.md",
+    "2024-05-09.md",
+    "2024-05-10.md",
+    "2024-05-13.md",
+    "2024-05-16.md",
+    "Untitled.canvas",
     "Frontend/Vue/Vitest/Stub component.md",
     "Frontend/Vue/Vitest/Component that uses Pinia.md",
     "Frontend/Vue/Vitest/wrapper.find.md",
@@ -156,12 +161,7 @@
     "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
     "conflict-files-obsidian-git.md",
     "Frontend/Vue/Vitest/Setup.md",
-    "2024-05-13.md",
-    "2024-05-10.md",
-    "2024-05-09.md",
-    "2024-04-12.md",
     "2024-03-18.md",
-    "Untitled.canvas",
     "Untitled.md",
     "Frontend/Vue/Vitest/Passing Prop.md",
     "Frontend/Vue/Untitled.md",
@@ -177,8 +177,6 @@
     "General/time.md",
     "Patterns/PATTERNS.md",
     "Patterns/New Language Questions.md",
-    "2024-02-26.md",
-    "2024-02-28.md",
     "Patterns",
     "To learn",
     "Frontend/Javascript"
