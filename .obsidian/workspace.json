@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-16.md",
+                "file": "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 200
   },
   "right": {
     "id": "bbbddf5ec4a65f0e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-16.md",
+                "file": "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-16.md",
+                "file": "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-16.md"
+                "file": "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md"
               }
             }
           }
@@ -148,28 +148,28 @@
   },
   "active": "2cf02f7065d4e81b",
   "lastOpenFiles": [
+    "Frontend/Vue/Vitest/Setup.md",
+    "Frontend/Vue/Setups/EsLint-Prettier-AutoSave.md",
+    "Frontend/Vue/Vitest/Component that uses Pinia.md",
+    "Frontend/Vue/Vitest/Testing Pinia Store.md",
+    "2024-05-16.md",
     "Pasted image 20240516101124.png",
     "Pasted image 20240516101102.png",
     "Pasted image 20240516101020.png",
     "Untitled.canvas",
-    "2024-05-16.md",
     "2024-03-18.md",
     "2024-04-12.md",
     "2024-05-09.md",
     "2024-05-10.md",
     "2024-05-13.md",
     "Frontend/Vue/Vitest/Stub component.md",
-    "Frontend/Vue/Vitest/Component that uses Pinia.md",
     "Frontend/Vue/Vitest/wrapper.find.md",
-    "Frontend/Vue/Vitest/Testing Pinia Store.md",
     "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
     "conflict-files-obsidian-git.md",
-    "Frontend/Vue/Vitest/Setup.md",
     "Untitled.md",
     "Frontend/Vue/Vitest/Passing Prop.md",
     "Frontend/Vue/Untitled.md",
     "Frontend/Vue/Vitest",
-    "Frontend/Vue/Setups/EsLint-Prettier-AutoSave.md",
     "Frontend/Vue/Setups",
     "Frontend/Vue",
     "2024-04-17.md",
