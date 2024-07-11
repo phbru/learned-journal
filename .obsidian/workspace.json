@@ -23,14 +23,26 @@
             "id": "4a84643156524dbf",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Vue/Vitest/Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9de29ac01d59c605",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.6.3"
+                "currentVersion": "1.6.5"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "vuetify",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,11 +88,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 506.49999618530273
   },
   "right": {
     "id": "bbbddf5ec4a65f0e",
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-29.md",
+                "file": "Frontend/Vue/Vitest/Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-29.md",
+                "file": "Frontend/Vue/Vitest/Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-29.md"
+                "file": "Frontend/Vue/Vitest/Setup.md"
               }
             }
           }
@@ -157,13 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a84643156524dbf",
+  "active": "9de29ac01d59c605",
   "lastOpenFiles": [
-    "2024-05-16.md",
+    "2024-02-25.md",
+    "2024-02-24.md",
     "2024-05-29.md",
+    "Pasted image 20240516101020.png",
+    "2024-05-16.md",
     "Pasted image 20240516101124.png",
     "Pasted image 20240516101102.png",
-    "Pasted image 20240516101020.png",
     "2024-04-12.md",
     "Frontend/Vue/Vitest/Setup.md",
     "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
@@ -187,7 +202,6 @@
     "2024-04-17.md",
     "2024-03-06.md",
     "Untitled 1.md",
-    "2024-02-25.md",
     "2024-02-22.md",
     "General/time.md",
     "Patterns/PATTERNS.md",
