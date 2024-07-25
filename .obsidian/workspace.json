@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6b0b6a1f207d719",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9de29ac01d59c605",
+  "active": "c6b0b6a1f207d719",
   "lastOpenFiles": [
     "2024-02-25.md",
     "2024-02-24.md",
