@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c681a686d9bdc2e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adb7e11bf2fafd89",
+  "active": "c681a686d9bdc2e4",
   "lastOpenFiles": [
     "Pasted image 20240516101124.png",
     "Pasted image 20240516101102.png",
