@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retro/1Year retro.md",
+                "file": "Retro/1 Year retro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1Year retro"
+              "title": "1 Year retro"
             }
           }
         ]
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,10 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2563f578771435c0",
+  "active": "5f5d7fd7afe86c9d",
   "lastOpenFiles": [
     "Retro/Sonaer.md",
-    "Retro/1Year retro.md",
+    "Retro/1 Year retro.md",
     "2024-04-12.md",
     "Retro",
     "2024-11-11.md",
