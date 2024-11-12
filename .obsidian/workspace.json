@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-11.md",
+                "file": "2024-04-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-11"
+              "title": "2024-04-12"
+            }
+          },
+          {
+            "id": "3f8ca62592ba04c6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "for",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +86,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,10 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2563f578771435c0",
+  "active": "3f8ca62592ba04c6",
   "lastOpenFiles": [
-    "2024-11-10.md",
     "2024-11-11.md",
+    "2024-11-10.md",
     "2024-05-16.md",
     "2024-05-29.md",
     "Frontend/Vue/Vitest/Setup.md",
