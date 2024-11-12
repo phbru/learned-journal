@@ -15,6 +15,32 @@
 
 # Pipeline CI/CD
 
+# Bridge
+- Design d'une solution pour communication de paramètres 
 
-# Automat
+
+# Opérateur XCEmailer
+# Exploration technologies
+### Bonnes pratiques Vue
+#### Stores
+#### Unit tests
+
+# Automations Devops
+### Création tâches Gida vers Devops
+### Génération de rapports SOC2 
+- Appel de l'API de Devops pour récuprer l'informations 
+- Utilisation d'Azure functions
+- Utilisation de PowerAutomate pour déposer les rapports sur sharePoint
+- 
+
+ 
+# WSIB
+
+# AI pour appel téléphonique
+
+# PESC
+
+# Mantorat stagiaire
+
+
 
