@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-12.md",
+                "file": "Retro/1Year retro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-04-12"
-            }
-          },
-          {
-            "id": "3f8ca62592ba04c6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "1Year retro"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,12 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 506.49999618530273
+    "width": 221.49999618530273
   },
   "right": {
     "id": "bbbddf5ec4a65f0e",
@@ -176,14 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f8ca62592ba04c6",
+  "active": "2563f578771435c0",
   "lastOpenFiles": [
+    "Retro/Sonaer.md",
+    "Retro/1Year retro.md",
+    "2024-04-12.md",
+    "Retro",
     "2024-11-11.md",
     "2024-11-10.md",
     "2024-05-16.md",
     "2024-05-29.md",
     "Frontend/Vue/Vitest/Setup.md",
-    "2024-04-12.md",
     "2024-02-24.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
@@ -210,8 +199,6 @@
     "Frontend/Vue",
     "2024-04-17.md",
     "2024-03-06.md",
-    "Untitled 1.md",
-    "2024-02-22.md",
     "Patterns",
     "To learn",
     "Frontend/Javascript"
