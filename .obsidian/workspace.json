@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2024-11-12"
             }
+          },
+          {
+            "id": "a5e4e69938fde206",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2563f578771435c0",
+  "active": "a5e4e69938fde206",
   "lastOpenFiles": [
     "2024-11-12.md",
     "Retro/1 Year retro.md",
