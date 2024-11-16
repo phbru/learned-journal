@@ -4,37 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "0c1979edd0aeb57e",
+        "id": "27ee27f6289eb017",
         "type": "tabs",
         "children": [
           {
-            "id": "2563f578771435c0",
+            "id": "2cf02f7065d4e81b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-12.md",
+                "file": "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-12"
+              "title": "mocking I18n (mocking global functions)"
             }
           },
           {
-            "id": "a5e4e69938fde206",
+            "id": "c681a686d9bdc2e4",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.7.6"
+                "currentVersion": "1.6.7"
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "Release Notes 1.6.7"
+            }
+          },
+          {
+            "id": "5aa06d3c5f3d51ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
+            "id": "3bbe080616262204",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.49999618530273
+    "width": 200
   },
   "right": {
     "id": "bbbddf5ec4a65f0e",
@@ -107,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
@@ -126,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links from Untitled 1"
             }
           },
           {
@@ -153,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Untitled 1.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Untitled 1"
             }
           }
         ]
@@ -176,40 +205,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5e4e69938fde206",
+  "active": "3bbe080616262204",
   "lastOpenFiles": [
-    "2024-11-12.md",
-    "Retro/1 Year retro.md",
     "Retro/Sonaer.md",
-    "2024-04-12.md",
+    "Retro/1 Year retro.md",
     "Retro",
+    "2024-11-12.md",
     "2024-11-11.md",
-    "2024-11-10.md",
-    "2024-05-16.md",
-    "2024-05-29.md",
-    "Frontend/Vue/Vitest/Setup.md",
-    "2024-02-24.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "2024-02-25.md",
-    "Pasted image 20240516101020.png",
+    "Backend/C# techs/C#/type DateTimeOffset.md",
+    "2024-11-10.md",
+    "Untitled.canvas",
+    "Untitled.md",
     "Pasted image 20240516101124.png",
     "Pasted image 20240516101102.png",
-    "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
-    "Frontend/Vue/Setups/EsLint-Prettier-AutoSave.md",
+    "Pasted image 20240516101020.png",
+    "2024-05-29.md",
+    "2024-05-16.md",
     "Frontend/Vue/Vitest/Component that uses Pinia.md",
+    "conflict-files-obsidian-git.md",
+    "Frontend/Vue/Vitest/Setup.md",
     "Frontend/Vue/Vitest/Testing Pinia Store.md",
-    "2024-03-18.md",
-    "2024-05-09.md",
-    "2024-05-10.md",
     "2024-05-13.md",
     "Frontend/Vue/Vitest/Stub component.md",
+    "Frontend/Vue/Vitest/mocking I18n (mocking global functions).md",
+    "2024-05-10.md",
+    "2024-05-09.md",
+    "2024-04-12.md",
+    "2024-03-18.md",
     "Frontend/Vue/Vitest/wrapper.find.md",
     "Frontend/Vue/Vitest/Passing Prop.md",
     "Frontend/Vue/Untitled.md",
     "Frontend/Vue/Vitest",
+    "Frontend/Vue/Setups/EsLint-Prettier-AutoSave.md",
     "Frontend/Vue/Setups",
     "Frontend/Vue",
     "2024-04-17.md",
