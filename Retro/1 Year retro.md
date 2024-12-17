@@ -60,7 +60,12 @@ Rendu 24 janvier dans notes
 ## Supervision stagiaire
 
 ## WFG
-
-
-
+- ~1000 users
+- Dépose 10 documents par mois
+- Base de données SQL, Backend ASPNET.Core - EF, Frontend Vue/Vuetify 
+- 
+## Costco Phone Call
+- Utilisation de Twilio pour faire des appels téléphoniques à des 300K clients
+- Développement en quelques jours
+- JS : utilisation de HangFire pour faire 
 
