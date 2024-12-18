@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMS/OptIn-OptOut.md",
+                "file": "Retro/1 Year retro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OptIn-OptOut"
+              "title": "1 Year retro"
             }
           }
         ],
@@ -207,8 +207,8 @@
   },
   "active": "7e52fcb8b1d6fc77",
   "lastOpenFiles": [
-    "2024-11-10.md",
     "SMS/OptIn-OptOut.md",
+    "2024-11-10.md",
     "Untitled 1.canvas",
     "Untitled.md",
     "Untitled 1.md",

@@ -69,3 +69,9 @@ Rendu 24 janvier dans notes
 - Développement en quelques jours
 - JS : utilisation de HangFire pour faire 
 
+
+
+
+Défini comme un rouage important
+
+Laisser aller
