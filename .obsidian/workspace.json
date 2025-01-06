@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "migration",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,9 +164,11 @@
   },
   "active": "5e0b82e9830c1bff",
   "lastOpenFiles": [
-    "Retro/1 Year retro.md",
-    "2025-01-06.md",
+    "2024-12-09.md",
+    "2024-05-29.md",
     "2024-03-06.md",
+    "2025-01-06.md",
+    "Retro/1 Year retro.md",
     "2024-12-19.md",
     "2024-12-16.md",
     "2024-12-13.md",
@@ -178,7 +180,6 @@
     "SMS",
     "2024-12-17.md",
     "conflict-files-obsidian-git.md",
-    "2024-12-09.md",
     "2024-04-12.md",
     "2024-05-10.md",
     "Retro/Sonaer.md",
@@ -191,7 +192,6 @@
     "Pasted image 20240516101020.png",
     "Retro",
     "2024-05-16.md",
-    "2024-05-29.md",
     "Frontend/Vue/Vitest/Setup.md",
     "2024-02-24.md",
     "2024-02-25.md",
