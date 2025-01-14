@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-10.md",
+                "file": "2024-12-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-10"
+              "title": "2024-12-17"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Url",
+                "query": "duplicates",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-01-10.md",
+                "file": "2024-12-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-10"
+              "title": "Backlinks for 2024-12-17"
             }
           },
           {
@@ -162,13 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e0b82e9830c1bff",
+  "active": "5f5d7fd7afe86c9d",
   "lastOpenFiles": [
+    "2025-01-10.md",
     "Pasted image 20250110113009.png",
     "Pasted image 20250110113007.png",
     "Pasted image 20250110084010.png",
     "Frontend/Vue/Vitest/Setup.md",
-    "2025-01-10.md",
     "2024-05-10.md",
     "2024-05-09.md",
     "2024-02-22.md",
