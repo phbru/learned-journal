@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-13.md",
+                "file": "Frontend/Vue/Vitest/Passing Prop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-13"
+              "title": "Passing Prop"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cron",
+                "query": "prop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-12-13.md",
+                "file": "Frontend/Vue/Vitest/Passing Prop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-12-13"
+              "title": "Backlinks for Passing Prop"
             }
           },
           {
@@ -164,12 +164,13 @@
   },
   "active": "5e0b82e9830c1bff",
   "lastOpenFiles": [
+    "2024-12-13.md",
+    "Frontend/Vue/Vitest/Setup.md",
     "2024-12-17.md",
     "2025-01-10.md",
     "Pasted image 20250110113009.png",
     "Pasted image 20250110113007.png",
     "Pasted image 20250110084010.png",
-    "Frontend/Vue/Vitest/Setup.md",
     "2024-05-10.md",
     "2024-05-09.md",
     "2024-02-22.md",
@@ -183,7 +184,6 @@
     "Retro/1 Year retro.md",
     "2024-12-19.md",
     "2024-12-16.md",
-    "2024-12-13.md",
     "SMS/OptIn-OptOut.md",
     "2024-11-10.md",
     "Untitled 1.canvas",
