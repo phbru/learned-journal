@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retro/2025.md",
+                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "Component that uses Pinia"
+            }
+          },
+          {
+            "id": "612394cc6eccd9b9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compa",
+                "query": "prop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +86,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retro/2025.md",
+                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025"
+              "title": "Backlinks for Component that uses Pinia"
             }
           },
           {
@@ -161,12 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e0b82e9830c1bff",
+  "active": "612394cc6eccd9b9",
   "lastOpenFiles": [
-    "Retro/1 Year retro.md",
-    "Retro/2025.md",
-    "2024-11-10.md",
+    "2024-11-11.md",
     "Frontend/Vue/Vitest/Passing Prop.md",
+    "Retro/2025.md",
+    "Retro/1 Year retro.md",
+    "2024-11-10.md",
     "2024-12-13.md",
     "Frontend/Vue/Vitest/Setup.md",
     "2024-12-17.md",
@@ -193,7 +208,6 @@
     "SMS",
     "conflict-files-obsidian-git.md",
     "2024-04-12.md",
-    "Retro/Sonaer.md",
     "Untitled.canvas",
     "Pasted image 20240516101124.png",
     "Pasted image 20240516101102.png",
