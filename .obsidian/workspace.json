@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.3"
             }
+          },
+          {
+            "id": "bf8c6c098ad180f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Vue/Vitest/Component that uses Pinia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Component that uses Pinia"
+              "title": "Backlinks"
             }
           },
           {
@@ -175,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "612394cc6eccd9b9",
+  "active": "bf8c6c098ad180f8",
   "lastOpenFiles": [
     "2024-11-11.md",
     "Frontend/Vue/Vitest/Passing Prop.md",
