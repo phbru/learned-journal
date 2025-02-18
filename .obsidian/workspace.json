@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "2024-05-29"
             }
+          },
+          {
+            "id": "b8ed4acfd54fbf5d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-05-29"
+              "title": "Backlinks"
             }
           },
           {
@@ -189,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f5d7fd7afe86c9d",
+  "active": "b8ed4acfd54fbf5d",
   "lastOpenFiles": [
     "2025-02-04.md",
     "Retro/1 Year retro.md",
