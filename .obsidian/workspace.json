@@ -65,12 +65,14 @@
             "id": "3af57cdb57b66c07",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "2025-01-06.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "2025-01-06"
             }
           }
         ],
@@ -93,7 +95,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -126,8 +129,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2025-01-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-01-06"
             }
           },
           {
@@ -216,6 +219,10 @@
   },
   "active": "3af57cdb57b66c07",
   "lastOpenFiles": [
+    "2024-12-17.md",
+    "2024-11-25.md",
+    "2025-01-07.md",
+    "Untitled 1.canvas",
     "2024-12-13.md",
     "2024-03-06.md",
     "2024-05-29.md",
@@ -227,7 +234,6 @@
     "Frontend/Vue/Vitest/Passing Prop.md",
     "Retro/2025.md",
     "Frontend/Vue/Vitest/Setup.md",
-    "2024-12-17.md",
     "2025-01-10.md",
     "Pasted image 20250110113009.png",
     "Pasted image 20250110113007.png",
@@ -237,16 +243,13 @@
     "2024-02-22.md",
     "2025-01-09.md",
     "2025-01-08.md",
-    "2025-01-07.md",
     "2025-01-06.md",
     "2024-12-19.md",
     "2024-12-16.md",
     "SMS/OptIn-OptOut.md",
-    "Untitled 1.canvas",
     "Untitled.md",
     "Untitled 1.md",
     "SMS",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "Pasted image 20240516101124.png",
     "Pasted image 20240516101102.png",
