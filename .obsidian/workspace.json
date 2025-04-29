@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "de36465bdd285a90",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "3af57cdb57b66c07",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-04-12"
+              "title": "Backlinks"
             }
           },
           {
@@ -217,7 +228,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8ed4acfd54fbf5d",
+  "active": "de36465bdd285a90",
   "lastOpenFiles": [
     "2024-05-29.md",
     "Frontend/Vue/Vitest/Component that uses Pinia.md",
