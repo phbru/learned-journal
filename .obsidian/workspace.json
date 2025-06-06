@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be24e84f9215a15b",
+        "id": "6144bca39c469750",
         "type": "tabs",
         "children": [
           {
-            "id": "f552c15c82d577bf",
+            "id": "b869c5a0277d0ecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pretti",
+                "query": "flex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,10 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f552c15c82d577bf",
+  "active": "b869c5a0277d0ecd",
   "lastOpenFiles": [
-    "2025-05-22.md",
+    "2024-11-12.md",
+    "2025-01-10.md",
     "2025-06-04.md",
+    "2025-05-22.md",
     "2025-02-04.md",
     "Pasted image 20240516101020.png",
     "Pasted image 20250110084010.png",
@@ -192,11 +195,9 @@
     "Frontend/Vue/Vitest/Passing Prop.md",
     "Retro/2025.md",
     "Frontend/Vue/Vitest/Setup.md",
-    "2025-01-10.md",
     "2024-05-10.md",
     "2024-05-09.md",
     "2024-02-22.md",
-    "2025-01-09.md",
     "SMS",
     "Pasted image 20240516101102.png",
     "Retro",
