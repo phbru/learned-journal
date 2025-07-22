@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9843dd4f45eb65a7",
+  "active": "5f5d7fd7afe86c9d",
   "lastOpenFiles": [
     "Untitled.md",
     "2025-07-11.md",
