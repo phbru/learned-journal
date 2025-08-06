@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cname",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
