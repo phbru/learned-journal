@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entit",
+                "query": "tag:#Web",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28cb20ec81c68fd2",
+  "active": "5f5d7fd7afe86c9d",
   "lastOpenFiles": [
     "2025-09-02.md",
     "2025-09-03.md",
