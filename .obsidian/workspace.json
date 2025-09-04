@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "2025-09-03"
             }
+          },
+          {
+            "id": "f3f3358489d365c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-03"
+              "title": "Backlinks"
             }
           },
           {
@@ -170,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f5d7fd7afe86c9d",
+  "active": "f3f3358489d365c3",
   "lastOpenFiles": [
     "2025-09-02.md",
     "2025-09-03.md",
