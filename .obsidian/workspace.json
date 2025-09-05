@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Web",
+                "query": "npm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38046f0b37f68c9f",
+  "active": "5f5d7fd7afe86c9d",
   "lastOpenFiles": [
     "2025-09-04.md",
     "2025-08-14.md",
