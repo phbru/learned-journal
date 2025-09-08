@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "npm",
+                "query": "shadow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
