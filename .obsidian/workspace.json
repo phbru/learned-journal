@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-09-03.md",
+                "file": "2025-09-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-03"
+              "title": "2025-09-09"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-09-03.md",
+                "file": "2025-09-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-09-03"
+              "title": "Outgoing links from 2025-09-09"
             }
           },
           {
@@ -166,10 +166,12 @@
   },
   "active": "38046f0b37f68c9f",
   "lastOpenFiles": [
+    "2025-09-03.md",
+    "2025-09-09.md",
+    "Untitled",
     "2025-09-04.md",
     "2025-09-08.md",
     "2025-08-14.md",
-    "2025-09-03.md",
     "2025-09-02.md",
     "Untitled.md",
     "2025-07-10.md",
@@ -199,7 +201,6 @@
     "Pasted image 20250110113007.png",
     "Pasted image 20250110113009.png",
     "2025-01-06.md",
-    "Frontend/Vue/Vitest/Component that uses Pinia.md",
     "Untitled 1.canvas",
     "SMS",
     "Pasted image 20240516101102.png",
