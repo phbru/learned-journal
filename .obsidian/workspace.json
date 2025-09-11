@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shadow",
+                "query": "403",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,8 +167,9 @@
   },
   "active": "38046f0b37f68c9f",
   "lastOpenFiles": [
-    "2025-09-10.md",
+    "2024-12-16.md",
     "2025-09-11.md",
+    "2025-09-10.md",
     "2025-09-09.md",
     "2025-09-03.md",
     "Untitled",
@@ -195,7 +197,6 @@
     "2025-06-06.md",
     "2025-06-04.md",
     "2024-11-12.md",
-    "2025-01-10.md",
     "Pasted image 20240516101020.png",
     "Pasted image 20250110084010.png",
     "Pasted image 20240516101124.png",
